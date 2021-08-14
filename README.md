@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @krunalmk student at VIT University, Chennai.
+- 👋 Hi, I’m @krunalmk student at Vellore Institute of Technology, Chennai
 - 👀 I’m interested in Web development and App Development
-- 🌱 I’m currently learning operating systems and its working
+- 🌱 I like to participate in coding competitions and hackathons
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at krunalk013@gmail.com
 
