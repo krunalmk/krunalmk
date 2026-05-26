@@ -1,4 +1,4 @@
-- Click (https://krunalmk.github.io/minimalist-portfolio/)[here] to view my portfolio or open https://krunalmk.github.io/minimalist-portfolio/ in new tab.
+- Click [here](https://krunalmk.github.io/minimalist-portfolio/) to view my portfolio or open 
 - 👋 Hi, I’m @krunalmk student at Vellore Institute of Technology, Chennai
 - 👀 I’m interested in Web development and App Development
 - 🌱 I like to participate in coding competitions and hackathons
